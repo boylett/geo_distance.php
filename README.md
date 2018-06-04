@@ -1,6 +1,6 @@
 # Calculate the distance in miles between two latitude, longitude pairs
 
-```
+```php
 $london    = [51.5285582, -0.2416797];
 $hong_kong = [22.3526738, 113.9876161];
 
